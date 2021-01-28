@@ -1,0 +1,1 @@
+airflow config get-value core executor
