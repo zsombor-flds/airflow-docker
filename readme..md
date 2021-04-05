@@ -6,7 +6,7 @@
 ## Build 
 
 
-    docker compose build -t hf-custom-airflow:v1
+    docker compose build -t custom-airflow:v1
 
 ## Start
 
